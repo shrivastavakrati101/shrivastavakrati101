@@ -1,10 +1,16 @@
 ## Hi there👋, I'm KRATI SHRIVASTAVA
 
 🧠 Computer Science student at SRMSCET
+
 🌐 Building **apps and websites**
+
 ☁️ Working with **AWS (EC2, S3), Docker, Kubernetes, CI/CD**  
+
 🛢 Databases: **MySQL & PostgreSQL**  
- Passionate about **problem solving, clean architecture, and self-learning**  
+
+Languages known: **Java, C++, Pyhton, C, MERN, XML**
+
+Passionate about **problem solving, clean architecture, and self-learning**  
 
 
 
